@@ -1,0 +1,14 @@
+-rootPath
+D:/SwipeViewPD
+-cmake-output
+-output-file
+D:/SwipeViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSwipeViewPD.cmake
+-importPath
+D:/SwipeViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SwipeViewPD
+-importPath
+D:/SwipeViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+D:/SwipeViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_SwipeViewPD.qrc
+D:/SwipeViewPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_SwipeViewPD_copy.qrc

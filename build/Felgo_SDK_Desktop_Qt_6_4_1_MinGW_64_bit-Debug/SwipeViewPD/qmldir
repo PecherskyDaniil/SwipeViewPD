@@ -1,0 +1,4 @@
+module SwipeViewPD
+typeinfo appSwipeViewPD.qmltypes
+prefer :/
+
